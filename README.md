@@ -1,7 +1,7 @@
 # Nick Ekanger
 ## Researcher | Astrophysicist
 
-Welcome! Website still being built. My previous google site was deleted without warning.
+*Welcome! Website still being built. My previous google site was deleted without warning.*
 
 ### About me
 
