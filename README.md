@@ -12,10 +12,10 @@ You can find my other papers at [INSPIRE](https://inspirehep.net/authors/2009112
 Recently given talks at:<br>
 (2026 Mar, Japan) Astronomical Society of Japan Conference<br>
 (2026 Feb, Japan) High Energy Astrophysics Hackathon<br>
-(2025 Nov, Japan) The Creation of Multi-Messenger Astrophysics (third annual)<br>
+(2025 Nov, Japan) The Creation of Multi-Messenger Astrophysics (3rd)<br>
 (2025 Nov, Spain) TeVPA<br>
 (2025 Jan, Japan) Tohoku University Astronomical Institute Colloquium<br>
-(2024 Nov, Japan) The Creation of Multi-Messenger Astrophysics (second annual)<br>
+(2024 Nov, Japan) The Creation of Multi-Messenger Astrophysics (2nd)<br>
 (2024 Oct, Japan) C01 Group Workshop<br>
 <br>
 Within the US, prior to postdoc, talks at:<br>
