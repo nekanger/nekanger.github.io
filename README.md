@@ -7,7 +7,9 @@
 
 From PhD at Virginia Tech to post-doctoral researcher at Tohoku University. If I had to choose two terms to tie together all of my research, I'd say "Cosmic Rays" and "Supernovae." My work has primarily been in advancing our understanding of how the composition of cosmic rays, especially from supernovae, affect observables. This includes nucleosynthesis, disintegration of nuclei, acceleration of nuclei, neutrinos, and the relative abundance of different species. My most recent study has focused on the acceleration of nuclei in interacting supernovae, especially type IIn, and how the competition of these related processes may explain recent cosmic ray observations. It can be found here: [Super-knee cosmic rays from interacting supernovae](https://arxiv.org/abs/2602.06410).
 
-You can find my other papers at [INSPIRE](https://inspirehep.net/authors/2009112) / [arXiv](https://arxiv.org/search/astro-ph?searchtype=author&query=Ekanger,+N) / [ORCID](https://orcid.org/0000-0002-0363-1022)
+You can find my other papers at <a href="https://inspirehep.net/authors/2009112" target="_blank">INSPIRE</a> / <a href="https://arxiv.org/search/astro-ph?searchtype=author&query=Ekanger,+N" target="_blank">arXiv</a> / <a href="https://orcid.org/0000-0002-0363-1022" target="_blank">ORCID</a><br>
+
+[//]: # [INSPIRE](https://inspirehep.net/authors/2009112) / [arXiv](https://arxiv.org/search/astro-ph?searchtype=author&query=Ekanger,+N) / [ORCID](https://orcid.org/0000-0002-0363-1022)
 
 ### Talks
 
@@ -30,7 +32,5 @@ Within the US, prior to postdoc:<br>
 
 ### GitHub Repositories
 
-[SFRD database](https://github.com/nekanger/Ekanger2023)<br>
-[PyDSNB public code](https://github.com/shinichiroando/PyDSNB)<br>
-
-<a href="https://github.com/shinichiroando/PyDSNB" target="_blank">testing</a><br>
+<a href="https://github.com/nekanger/Ekanger2023" target="_blank">SFRD database</a><br>
+<a href="https://github.com/shinichiroando/PyDSNB" target="_blank">PyDSNB public code</a><br>
