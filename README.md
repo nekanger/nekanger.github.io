@@ -14,8 +14,9 @@ You can find my other papers at <a href="https://inspirehep.net/authors/2009112"
 ### Talks
 
 Recent:<br>
-(2026 Mar, Japan) Astronomical Society of Japan Conference<br>
+(2026 Mar, Japan) Astronomical Society of Japan Conference (+poster)<br>
 (2026 Feb, Japan) High Energy Astrophysics Hackathon<br>
+(2026 Feb, Japan) Yukawa International Seminar (+poster)<br>
 (2025 Nov, Japan) The Creation of Multi-Messenger Astrophysics (3rd)<br>
 (2025 Nov, Spain) TeVPA<br>
 (2025 Jan, Japan) Tohoku University Astronomical Institute Colloquium<br>
@@ -29,6 +30,12 @@ Within the US, prior to postdoc:<br>
 (2023 Apr, Minneapolis) American Physical Society April Meeting<br>
 (2022 Oct, Blacksburg) Astrophysics Seminar<br>
 (2022 May, Blacksburg) Center for Neutrino Physics Day<br>
+
+### Posters
+
+(2026 Mar, Japan) Astronomical Society of Japan Conference (+3 min talk)<br>
+(2026 Feb, Japan) Yukawa International Seminar (+3 min talk)<br>
+(2025 Oct, Japan) XRISM International Conference<br>
 
 ### GitHub Repositories
 
