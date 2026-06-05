@@ -5,7 +5,9 @@
 
 ### Summary
 
-From PhD at Virginia Tech to post-doctoral researcher at Tohoku University. If I had to choose two terms to tie together all of my research, I'd say "Cosmic Rays" and "Supernovae." My work has primarily been in advancing our understanding of how the composition of cosmic rays, especially from supernovae, affect observables. This includes nucleosynthesis, disintegration of nuclei, acceleration of nuclei, neutrinos, and the relative abundance of different species. My most recent study has focused on the acceleration of nuclei in interacting supernovae, especially type IIn, and how the competition of these related processes may explain recent cosmic ray observations. It can be found here: <a href="https://arxiv.org/abs/2602.06410" target="_blank">Super-knee cosmic rays from interacting supernovae</a>.<br>
+From PhD at Virginia Tech to post-doctoral researcher at Tohoku University. The two keywords that tie together most of my research are "Cosmic Rays" and "Supernovae." My work has primarily been in advancing our understanding of how the composition of cosmic rays, especially from supernovae, affect observables. This includes nucleosynthesis, disintegration of nuclei, acceleration of nuclei, neutrinos, and the relative abundance of different species.<br>
+
+One of my most recent studies has focused on the acceleration of nuclei in interacting supernovae, especially type IIn, and how the competition of these related processes may explain recent cosmic ray observations. It can be found here: <a href="https://arxiv.org/abs/2602.06410" target="_blank">Super-knee cosmic rays from interacting supernovae</a>.<br>
 
 You can find my other papers at <a href="https://inspirehep.net/authors/2009112" target="_blank">INSPIRE</a> / <a href="https://arxiv.org/search/astro-ph?searchtype=author&query=Ekanger,+N" target="_blank">arXiv</a> / <a href="https://orcid.org/0000-0002-0363-1022" target="_blank">ORCID</a><br>
 
